@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightblue;
+   
+}
+
+.container {
+    background-color: lightblue;
+   
+}
+
+h1 {
+   margin: 10px;
+    text-align: center;
+    font-family:  sans-serif;
+    font-size: xx-large;
+    border: 2px double black;
+}
+
+h2 {
+    margin: 10px;
+   float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large ;
+}
+
+ #name {
+   padding: 10px;
+   float: left;
+   font-size: large;
+   font-style: italic;
+}
+
+#fname {
+    padding: 10px;
+    float: left;
+    font-size: large;
+    font-style: italic;
+} 
+
+ #Name {
+    border: 3px solid black;
+    border-radius: 3px;
+} 
+
+ #Rollno {
+    border: 3px solid black;
+    border-radius: 3px;
+}
+
+#Fname {
+    border: 3px solid black;
+    border-radius: 3px;
+} 
+
+ #Institutename {
+    border: 3px solid black;
+    border-radius: 3px;
+} 
+
+h2 {
+    float: inline-start;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.marks {
+    border: 10px double black;
+}
+
+#eng {
+    padding: 20px;
+    justify-content: center;
+    font-size: x-large;
+}
+
+#box1 {
+    border: 2px solid black;
+    border-radius: 3px;
+    
+}
+#box2 {
+    border: 2px solid black;
+    border-radius: 3px;
+}
+#box3 {
+    border: 2px solid black;
+    border-radius: 3px;
+}
+#box4 {
+    border: 2px solid black;
+    border-radius: 3px;
+}
+#box5 {
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+#RESULT {
+    padding: 2px; 
+    align-items: center;
+    margin: 10px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+#res {
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+button {
+background-color: lemonchiffon;
+color:#7054b1 ;
+padding: 10px;
+border: 1px solid black;
+border-radius: 5px;
+cursor: pointer;
+}
+
+button:hover {
+color: plum;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.Pass {
+    color: green;
+}
+
+.Fail {
+color: red;
+}
+input{
+    padding: ;
+}
